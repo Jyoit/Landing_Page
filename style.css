@@ -1,0 +1,148 @@
+.overflow-x-hidden {
+  background-color: rgb(220 144 41);
+}
+
+.lg {
+  width: 80px;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-bottom: -60px;
+}
+
+.container {
+  border: 1px solid green;
+  border-radius: 5px;
+  
+border-color:rgb(250 140 8 / 69%);
+
+  margin: 50px;
+  padding-left: 40px;
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+  background-size: 100% 100%;
+  text-decoration: dark;
+}
+
+.Store_name {
+  color: rgb(250 140 8);
+  font-size: 57px;
+  font-style: oblique;
+  margin: 15px;
+  margin-top: 0px;
+  margin-bottom: -50px;
+  border: 2px;
+  padding-left: 15px;
+  padding-top: 15px;
+  font-weight: bold;
+  text-shadow: 2px 1px;
+}
+
+.navbar {
+  margin-right: 15px;
+}
+
+.navbar ul {
+  overflow: auto;
+  text-align: right;
+  
+}
+
+.navbar li {
+  float: right;
+  list-style: none;
+  margin: 5px 15px;
+}
+
+.navbar li a {
+  padding: 3px 3px;
+  text-decoration: none;
+  color: #432505;
+  font-weight: bold;
+}
+
+.search {
+  float: right;
+  color: rgb(53, 63, 53);
+  padding: 3px 15px;
+  margin: auto;
+}
+
+.navbar input {
+  border: 3px solid black;
+  border-radius: 2px;
+  padding: 3px;
+}
+
+.flex {
+  text-align: left;
+}
+
+.heading {
+  font-size: 37px;
+  font-style: Georgia;
+}
+
+.para {
+  width: 50%;
+  height: auto;
+}
+
+.btn {
+  background-color: #ca921b;
+  /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+  font-style: normal;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.sub_Sec {
+  display: inline-block;
+  margin: 15px;
+  min-width: 20vw;
+  font-size: 16px;
+  padding: 40px;
+  box-sizing: border-box;
+  border-radius: 4px;
+  margin: -19px;
+
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-align: center, top;
+}
+.sub_sec1 {
+  width: 155px;
+  margin-left: 58px;
+}
+.sub_sec2 {
+  width: 155px;
+  margin: 31px;
+}
+.sub_sec3 {
+  width: 155px;
+}
+.sub_sec4 {
+  width: 155px;
+}
+.sub_sec5 {
+  width: 155px;
+}
+.sec{
+  border:0px solid white;
+  background-color: #ca921bb5;
+}
+
+.footer {
+  text-align: center;
+  margin-bottom: 5px;
+}
