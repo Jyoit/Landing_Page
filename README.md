@@ -1,2 +1,2 @@
 # Landing_Page
-It is a landing Page on the Fruit Juice Company
+using HTML, CSS made landing page for Fruzo_juice company
